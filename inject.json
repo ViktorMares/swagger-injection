@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/ViktorMares/swagger-injection/refs/heads/main/inject.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/ViktorMares/swagger-injection/refs/heads/main/inject.yaml",
+            "name": "HTML Injection"
+        }
+    ]
+}
